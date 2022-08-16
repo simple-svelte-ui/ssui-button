@@ -18,7 +18,7 @@ yarn add @simple-svelte-ui/button
 
 ## Usage/Examples
 
-Svelte REPL example is avaliable [here](https://svelte.dev/repl/e1d1e77a86a94ff3947c68f0e99c4e00?version=3.49.0)
+Svelte REPL example is available [here](https://svelte.dev/repl/e1d1e77a86a94ff3947c68f0e99c4e00?version=3.49.0)
 
 ```js
 <script>
