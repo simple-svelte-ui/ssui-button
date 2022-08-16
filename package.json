@@ -1,0 +1,25 @@
+{
+  "name": "@simple-svelte-ui/button",
+  "version": "1.0.3",
+  "description": "",
+  "svelte": "src/index.js",
+  "devDependencies": {
+    "svelte": ""
+  },
+  "keywords": [
+    "svelte",
+    "simple",
+    "ui",
+    "button"
+  ],
+  "author": "Syam SV <d8rkmind>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simple-svelte-ui/ssui-button.git"
+  },
+  "bugs": {
+    "url": "https://github.com/simple-svelte-ui/ssui-button/issues"
+  },
+  "homepage": "https://github.com/simple-svelte-ui/ssui-button"
+}
